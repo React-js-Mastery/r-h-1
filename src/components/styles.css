@@ -1,0 +1,14 @@
+#func-content, #class-content{
+    display: none;
+    border: 1px solid black;
+    width: 400px;
+    padding: 5px;
+    border-radius: 10px;
+}
+.btn{
+    padding: 5px;
+    width: auto;
+    height: auto;
+    font-size: 22px;
+    margin: 10px;
+}
